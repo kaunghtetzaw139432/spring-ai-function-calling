@@ -13,7 +13,7 @@ This project demonstrates how to implement **Function Calling (Tool Calling)** i
 
 The following diagram illustrates how the `CityController`, `FunctionConfiguration`, and `WeatherService` collaborate with Spring AI and the external Weather API:
 
-![Spring AI Function Calling Flow]<img width="1000"  alt="Image" src="https://github.com/user-attachments/assets/6675f744-70a4-497f-a33c-1934f00886b8" />
+## Spring AI Function Calling Flow<img width="1000"  alt="Image" src="https://github.com/user-attachments/assets/6675f744-70a4-497f-a33c-1934f00886b8" />
 
 ```mermaid
 graph TD
