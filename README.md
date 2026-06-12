@@ -13,7 +13,7 @@ This project demonstrates how to implement **Function Calling (Tool Calling)** i
 
 The following diagram illustrates how the `CityController`, `FunctionConfiguration`, and `WeatherService` collaborate with Spring AI and the external Weather API:
 
-![Spring AI Function Calling Flow](https://raw.githubusercontent.com/your-username/spring-ai-function-calling/main/image_1.png)
+![Spring AI Function Calling Flow]<img width="1000"  alt="Image" src="https://github.com/user-attachments/assets/6675f744-70a4-497f-a33c-1934f00886b8" />
 
 ```mermaid
 graph TD
@@ -86,7 +86,7 @@ mvn spring-boot:run
 
 * Query Parameter: message (e.g., How is the weather in Mandalay?)
 
- ** Firecamp / Postman Response **
+ Firecamp / Postman Response 
  ```Plaintext
 "The current weather in Mandalay is partly cloudy with 26.4°C."
 ```
