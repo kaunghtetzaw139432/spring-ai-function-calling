@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FunctionApplication<function>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "dev.danvega.function.FunctionApplication",
+            "projectName": "function",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
